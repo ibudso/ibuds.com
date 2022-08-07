@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_form = 'https://ibudso.github.io/ibudserver.com/';
+$email_form = 'info@ibudserver.com';
 
 $email_subject = 'New Form Submission';
 
